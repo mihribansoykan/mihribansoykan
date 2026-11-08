@@ -1,20 +1,20 @@
-## Hi, I'm Mihriban 👋
+## Hi, I'm Mihriban 
 
 **Computer Engineer · Data Science & Machine Learning**
 
 I build end-to-end machine learning projects: from messy real-world data and validated pipelines to models that are evaluated honestly against simple baselines, explained, and shipped as code that others can run.
 
-- 🔭 Interests: **forecasting**, **customer analytics**, **credit risk**, explainable & fair ML
-- 🧰 I care about reproducibility (lock files, tests, CI), leakage-free evaluation and decisions measured in business terms
-- 💬 Türkçe · English
+- Interests: **forecasting**, **customer analytics**, **credit risk**, explainable & fair ML
+- I care about reproducibility (lock files, tests, CI), leakage-free evaluation and decisions measured in business terms
+- Türkçe · English
 
 ### Featured projects
 
 | Project | Highlights |
 |---|---|
-| 🏦 [**credit-risk-mlops**](https://github.com/mihribansoykan/credit-risk-mlops) | Calibrated LightGBM credit-default model with a **cost-optimal decision threshold (−49 % expected loss vs. approve-all)**, SHAP reason codes, a fairness audit, PSI drift monitoring, MLflow tracking and a Dockerised **FastAPI** service with CI. |
-| 🛍️ [**customer-segmentation-clv**](https://github.com/mihribansoykan/customer-segmentation-clv) | 1M+ e-commerce transactions: RFM + K-Means segments, **revenue-at-risk** estimates, and 6-month CLV where a **BG/NBD + Gamma-Gamma model implemented from the papers** is benchmarked against LightGBM in a leakage-free backtest. |
-| 🚦 [**istanbul-traffic-forecasting**](https://github.com/mihribansoykan/istanbul-traffic-forecasting) | Day-ahead hourly speed forecasts for Istanbul's 150 busiest road cells from **IBB open data**: a holiday- and school-calendar-aware LightGBM cuts error by **26 % on ordinary weeks and 52 % on Bayram days** vs. a seasonal baseline in a 10-week rolling backtest. |
+|  [**credit-risk-mlops**](https://github.com/mihribansoykan/credit-risk-mlops) | Calibrated LightGBM credit-default model with a **cost-optimal decision threshold (−49 % expected loss vs. approve-all)**, SHAP reason codes, a fairness audit, PSI drift monitoring, MLflow tracking and a Dockerised **FastAPI** service with CI. |
+|  [**customer-segmentation-clv**](https://github.com/mihribansoykan/customer-segmentation-clv) | 1M+ e-commerce transactions: RFM + K-Means segments, **revenue-at-risk** estimates, and 6-month CLV where a **BG/NBD + Gamma-Gamma model implemented from the papers** is benchmarked against LightGBM in a leakage-free backtest. |
+|  [**istanbul-traffic-forecasting**](https://github.com/mihribansoykan/istanbul-traffic-forecasting) | Day-ahead hourly speed forecasts for Istanbul's 150 busiest road cells from **IBB open data**: a holiday- and school-calendar-aware LightGBM cuts error by **26 % on ordinary weeks and 52 % on Bayram days** vs. a seasonal baseline in a 10-week rolling backtest. |
 
 ### Toolbox
 
